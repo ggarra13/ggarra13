@@ -27,7 +27,7 @@
      * GLFW
      * OpenGL
 
-- I am familiar with these VFX and APIs packages:
+- I have used these VFX and APIs packages:
    * Nuke
    * Maya (its API and as an artist)
    * Prman (its API and as an artist)
