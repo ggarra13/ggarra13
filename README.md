@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on mrv2 and OpenUSD
 - 📫 How to reach me: ggarra13@gmail.com
 
+- I am familiar with these OS:
+   * Windows
+   * Linux
+   * macOS
+
 - I know the following languages:
     * C/C++
     * Python (both scripting and pybind11)
