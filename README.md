@@ -20,6 +20,7 @@
      * FLTK
      * Fox
      * GLFW
+     * OpenGL
 
 - I am familiar with these VFX packages:
    * Nuke
