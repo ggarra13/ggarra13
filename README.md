@@ -22,11 +22,13 @@
      * GLFW
      * OpenGL
 
-- I am familiar with these VFX packages:
+- I am familiar with these VFX and APIs packages:
    * Nuke
    * Maya (its API and as an artist)
    * Prman (its API and as an artist)
    * Arnold
+   * OpenUSD
+   * OpenTimelineIO
 
 <!--
 **ggarra13/ggarra13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
