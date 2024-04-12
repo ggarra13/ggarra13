@@ -14,6 +14,8 @@
     * Ruby
     * CMake
     * bash
+    * HTML
+    * CSS
 
 - I am familiar with these tools:
      * git
