@@ -22,6 +22,7 @@
      * swig
      * subversion
      * ninja
+     * Docker
 
 - I know these UI APIs:
      * FLTK
