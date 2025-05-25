@@ -29,6 +29,7 @@
      * Fox
      * GLFW
      * OpenGL
+     * Vulkan
 
 - I have used these VFX and APIs packages:
    * Nuke
